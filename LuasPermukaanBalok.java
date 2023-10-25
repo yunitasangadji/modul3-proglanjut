@@ -14,8 +14,6 @@ import java.util.Scanner;
 
             System.out.print("Masukkan tinggi balok: ");
             double tinggi = input.nextDouble();
-
-            // Menutup objek Scanner karena sudah selesai digunakan
             input.close();
 
             // Menghitung luas permukaan balok
