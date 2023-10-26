@@ -14,5 +14,7 @@ import java.util.Scanner;
             input.close();
             double luasPermukaan = 2 * ((panjang * lebar) + (panjang * tinggi) + (lebar * tinggi));
             System.out.println("Luas permukaan balok adalah: " + luasPermukaan);
+            
         }
     }
+Modul Tiga
